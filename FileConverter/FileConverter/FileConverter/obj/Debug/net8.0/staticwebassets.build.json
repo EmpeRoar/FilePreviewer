@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "qXmr/yku0H72M2rPexKb2U8j8MhdQxSiVUICBqOBpYk=",
+  "Source": "FileConverter",
+  "BasePath": "_content/FileConverter",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FileConverter\\wwwroot",
+      "Source": "FileConverter",
+      "ContentRoot": "C:\\REPOS\\FilePreviewer\\FileConverter\\FileConverter\\FileConverter\\wwwroot\\",
+      "BasePath": "_content/FileConverter",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\REPOS\\FilePreviewer\\FileConverter\\FileConverter\\FileConverter\\wwwroot\\csvx.csv",
+      "SourceId": "FileConverter",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\REPOS\\FilePreviewer\\FileConverter\\FileConverter\\FileConverter\\wwwroot\\",
+      "BasePath": "_content/FileConverter",
+      "RelativePath": "csvx.csv",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\csvx.csv"
+    },
+    {
+      "Identity": "C:\\REPOS\\FilePreviewer\\FileConverter\\FileConverter\\FileConverter\\wwwroot\\Hello.txt",
+      "SourceId": "FileConverter",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\REPOS\\FilePreviewer\\FileConverter\\FileConverter\\FileConverter\\wwwroot\\",
+      "BasePath": "_content/FileConverter",
+      "RelativePath": "Hello.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Hello.txt"
+    }
+  ]
+}
