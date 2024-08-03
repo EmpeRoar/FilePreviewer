@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "xs6r9CxRhc7XQEtPnsNEtRxV+VGT66Juyl9htpnNCzc=",
+  "Source": "ExcelToPDF",
+  "BasePath": "_content/ExcelToPDF",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ExcelToPDF\\wwwroot",
+      "Source": "ExcelToPDF",
+      "ContentRoot": "C:\\REPOS\\FilePreviewer\\FileConverter\\ExcelToPDF\\ExcelToPDF\\wwwroot\\",
+      "BasePath": "_content/ExcelToPDF",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\REPOS\\FilePreviewer\\FileConverter\\ExcelToPDF\\ExcelToPDF\\wwwroot\\excel.xls",
+      "SourceId": "ExcelToPDF",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\REPOS\\FilePreviewer\\FileConverter\\ExcelToPDF\\ExcelToPDF\\wwwroot\\",
+      "BasePath": "_content/ExcelToPDF",
+      "RelativePath": "excel.xls",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\excel.xls"
+    },
+    {
+      "Identity": "C:\\REPOS\\FilePreviewer\\FileConverter\\ExcelToPDF\\ExcelToPDF\\wwwroot\\excelx.xlsx",
+      "SourceId": "ExcelToPDF",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\REPOS\\FilePreviewer\\FileConverter\\ExcelToPDF\\ExcelToPDF\\wwwroot\\",
+      "BasePath": "_content/ExcelToPDF",
+      "RelativePath": "excelx.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\excelx.xlsx"
+    },
+    {
+      "Identity": "C:\\REPOS\\FilePreviewer\\FileConverter\\ExcelToPDF\\ExcelToPDF\\wwwroot\\word.docx",
+      "SourceId": "ExcelToPDF",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\REPOS\\FilePreviewer\\FileConverter\\ExcelToPDF\\ExcelToPDF\\wwwroot\\",
+      "BasePath": "_content/ExcelToPDF",
+      "RelativePath": "word.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\word.docx"
+    }
+  ]
+}

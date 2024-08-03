@@ -1,0 +1,6 @@
+@ExcelToPDF_HostAddress = http://localhost:5052
+
+GET {{ExcelToPDF_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

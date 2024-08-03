@@ -60,8 +60,7 @@
               "ToolTip": "C:\\REPOS\\FilePreviewer\\FileConverter\\FileConverter\\FileConverter\\FileConverter.csproj",
               "RelativeToolTip": "FileConverter\\FileConverter.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-03T16:11:35.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T16:11:35.173Z"
             },
             {
               "$type": "Document",
@@ -73,8 +72,7 @@
               "RelativeToolTip": "FileConverter\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAYwB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T16:03:47.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T16:03:47.869Z"
             },
             {
               "$type": "Document",
@@ -86,8 +84,7 @@
               "RelativeToolTip": "FileConverter\\wwwroot\\csvx.csv",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2024-08-03T15:36:47.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T15:36:47.391Z"
             },
             {
               "$type": "Document",
@@ -99,8 +96,7 @@
               "RelativeToolTip": "FileConverter\\wwwroot\\Hello.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-08-03T15:36:30.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T15:36:30.326Z"
             },
             {
               "$type": "Document",
@@ -110,7 +106,7 @@
               "RelativeDocumentMoniker": "FileConverter\\Controllers\\FileConverterController.cs",
               "ToolTip": "C:\\REPOS\\FilePreviewer\\FileConverter\\FileConverter\\FileConverter\\Controllers\\FileConverterController.cs",
               "RelativeToolTip": "FileConverter\\Controllers\\FileConverterController.cs",
-              "ViewState": "AQIAAEMAAAAAAAAAAAAIwEwAAAAuAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAQwE8AAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-03T15:34:28.302Z",
               "EditorCaption": ""
@@ -118,15 +114,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FileConverter",
+              "Title": "FileConverter.csproj",
               "DocumentMoniker": "C:\\REPOS\\FilePreviewer\\FileConverter\\FileConverter\\FileConverter\\FileConverter.csproj",
               "RelativeDocumentMoniker": "FileConverter\\FileConverter.csproj",
               "ToolTip": "C:\\REPOS\\FilePreviewer\\FileConverter\\FileConverter\\FileConverter\\FileConverter.csproj",
               "RelativeToolTip": "FileConverter\\FileConverter.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-03T16:14:49.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T16:14:49.136Z"
             }
           ]
         }
