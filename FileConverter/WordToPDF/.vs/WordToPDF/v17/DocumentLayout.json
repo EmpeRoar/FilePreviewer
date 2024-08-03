@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\REPOS\\FilePreviewer\\FileConverter\\WordToPDF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10D6D984-C51C-4619-8B03-8EF3087DA25F}|WordToPDF\\WordToPDF.csproj|c:\\repos\\filepreviewer\\fileconverter\\wordtopdf\\wordtopdf\\controllers\\wordtopdfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D6D984-C51C-4619-8B03-8EF3087DA25F}|WordToPDF\\WordToPDF.csproj|solutionrelative:wordtopdf\\controllers\\wordtopdfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D6D984-C51C-4619-8B03-8EF3087DA25F}|WordToPDF\\WordToPDF.csproj|c:\\repos\\filepreviewer\\fileconverter\\wordtopdf\\wordtopdf\\wordtopdf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{10D6D984-C51C-4619-8B03-8EF3087DA25F}|WordToPDF\\WordToPDF.csproj|solutionrelative:wordtopdf\\wordtopdf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WordToPDF",
+              "DocumentMoniker": "C:\\REPOS\\FilePreviewer\\FileConverter\\WordToPDF\\WordToPDF\\WordToPDF.csproj",
+              "RelativeDocumentMoniker": "WordToPDF\\WordToPDF.csproj",
+              "ToolTip": "C:\\REPOS\\FilePreviewer\\FileConverter\\WordToPDF\\WordToPDF\\WordToPDF.csproj",
+              "RelativeToolTip": "WordToPDF\\WordToPDF.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-03T16:51:44.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WordToPDFController.cs",
+              "DocumentMoniker": "C:\\REPOS\\FilePreviewer\\FileConverter\\WordToPDF\\WordToPDF\\Controllers\\WordToPDFController.cs",
+              "RelativeDocumentMoniker": "WordToPDF\\Controllers\\WordToPDFController.cs",
+              "ToolTip": "C:\\REPOS\\FilePreviewer\\FileConverter\\WordToPDF\\WordToPDF\\Controllers\\WordToPDFController.cs",
+              "RelativeToolTip": "WordToPDF\\Controllers\\WordToPDFController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwCAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T16:38:18.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

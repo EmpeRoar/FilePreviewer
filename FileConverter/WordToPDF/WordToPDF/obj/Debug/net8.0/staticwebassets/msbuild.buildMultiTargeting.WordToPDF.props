@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WordToPDF.props" />
+</Project>

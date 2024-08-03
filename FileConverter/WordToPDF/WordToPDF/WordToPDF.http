@@ -1,0 +1,6 @@
+@WordToPDF_HostAddress = http://localhost:5102
+
+GET {{WordToPDF_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
