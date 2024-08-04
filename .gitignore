@@ -1,0 +1,25 @@
+# Ignore Visual Studio temporary files, build results, and
+# Include directory based on your specific structure
+
+# Ignore bin and obj folders at any level in the directory hierarchy
+**/bin/
+**/obj/
+
+# Ignore Visual Studio 2017/2019/2022 cache directory at any level
+**/.vs/
+
+# Ignore Rider IDE directory
+.idea/
+
+# Ignore user-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore Visual Studio Code settings folder
+.vscode/
+
+# Ignore build output
+_build/
